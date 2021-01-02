@@ -1,0 +1,117 @@
+
+.wraper {width: 100%;background-image: url(../img/bimg.jpg);background-size: cover;height: 324px;
+        margin: 0;padding: 0;position: relative;}
+.zetta-hotels {position: absolute;color:#FFFFFF ;top: 30px;left: 139px;font-size: 14px;font-family: 'Poppins', sans-serif;text-transform: uppercase;}
+.about-us {position: absolute;color:#FFFFFF ;font-size: 42px;top: 146px;left: 139px;
+           text-transform: capitalize;font-family: 'Poppins', sans-serif;}
+.home {position: absolute;
+    color:#FFFFFF;
+    top: 219px;
+    left: 139px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;}
+.home::after {content:'' ;width: 2px;height: 19px;position:absolute;margin-left: 14.5px;background-color:#FFFFFF;}   
+.about-us2 {position: absolute;color:#FFFFFF;top: 219px;left: 212px;text-transform: capitalize;font-family: 'Poppins', sans-serif;}
+.navigation {position: absolute;top: 32px; right: 138px;color:#FFFFFF ;text-transform: uppercase;}
+.navul{display: flex;}
+.nav-li {margin-right: 60px;}
+    
+.container1,
+.container2 {width: 1366px;margin: 0 auto;}
+.left-box {width: 444px;background-color: #FFFFFF;margin-top: 128px;}
+.about {height: 20px;color: #5863F8 ;font-weight: bold;margin-bottom: 1px;}
+.trust {height: 115px;font-family: 'Poppins', sans-serif;font-weight: bold;text-transform: capitalize;margin-bottom: 10px;font-weight: 900px;}
+.first-p{font-family: 'Poppins', sans-serif;font-size: 16px;margin-bottom: 10px;}
+.second-p{font-family: 'Poppins', sans-serif;font-size: 14px;margin-bottom: 20px;}
+.first-read{width: 184px;height: 50px; background-color:#5863F8;color: #FFFFFF;position: relative; } 
+.first-read h3
+ {
+       position: absolute;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%,-50% ); 
+       font-size: 14px;font-weight: bold;
+       text-transform: lowercase;
+       
+    }
+.fa-arrow-right {position: absolute;top:50px;right:35px;transform: translateY(-200%) ;color:#FFFFFF ;}
+.first-read{width: 184px;height: 50px; background-color:#5863F8;color: #FFFFFF;position: relative; } 
+
+       
+.right-box {width: 536px;background-color: #FFFFFF;margin-bottom: 90px;margin-top: 90px;}
+.image-block{
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 16px;
+}
+
+.wraper-box{
+    display: flex;
+    justify-content:space-between;
+}
+.container2 {width: 100%;
+              background-image: url(../img/bimg.jpg) ;
+              background-size: cover;
+              height: 612px;
+              margin: 0;
+              padding: 0;
+              position: relative;
+             
+
+}
+.second-about {font-size: 14px;font-weight: bold;color: #5863F8;
+               text-transform: uppercase;top: 92px;left: 139px ;font-family: 'Poppins' ,sans-serif;position: absolute;}
+.second-text {font-size: 42px;font-weight: bold;color: #FFFFFF;position: absolute;top: 113px;left: 139px;font-family: 'Poppins' ,sans-serif;text-transform: none;width: 376px;}
+
+.images-box {position: absolute;width:1366px ; height: 260px;display: flex;justify-content: space-between;top: 262px;left: 50%;transform: translateX(-50%); }
+.section-left-block,
+.section-left2-block,
+.section-right-block,
+.section-right2-block {width: 260px;height: 260px;position: relative;top: 0;left: 0;background-color: #FFFFFF ;}
+.Wifi {font-size: 18px;font-family: 'Poppins' ,sans-serif;margin:15px 0px 0px 47px;font-weight: bold; }
+.ktelevision {font-size: 18px;font-family: 'Poppins' ,sans-serif;margin:15px 0px 0px 50px;font-weight: bold;}
+.span {font-size: 18px;font-family: 'Poppins' ,sans-serif;margin: 15px 0px 0px 52px;font-weight: bold;}
+.spacious {font-size: 18px;font-family: 'Poppins' ,sans-serif;font-weight: bold;margin: 15px 0px 0px 36px;}
+.lorem {margin-top: 20px;color: #B1B1B1;font-size: 14px;margin: 20px 0px 0px 20px;}
+.image1 {width: 59px;height: 58px;border-radius: 50%;display: flex;justify-content: center;align-items: center;margin:27px 0px 15px 101px;background-color: #5863F8;}
+.section3-conntainer {width: 100%;height: 487px;display: flex;justify-content: space-between;margin-left: 139px;}
+.section3-left-block {margin-top: 76px;width: 447px;background-color: #FFFFFF;left: 139px;}
+.Testimonials {text-transform: uppercase;font-size: 14px; color: #5863F8;font-family: 'Poppins' ,sans-serif;}
+.man{vertical-align: middle;margin-right: 19px;margin-bottom: 20px;}
+.marius {display: inline-block;vertical-align: middle;font-family: 'Poppins' ,sans-serif;font-weight: bold;}
+
+.trust {font-size: 42px;font-weight: bold ;height: 115px;width: 512px;margin-top: 1px;margin-bottom: 30px;}
+
+.section3-left-block p{margin-top: 20px;
+                       font-family: 'Poppins' ,sans-serif;
+                       width: 352px;}
+.photos {margin-left: 139px;font-size: 14px;color:#5863F8;font-weight: bold;text-transform:uppercase ;margin-top: 90px;}
+.title { margin-left: 139px;font-size: 42px;font-weight: bold;width: 565px;}
+.section4-container {width: 100%;display: flex;justify-content: space-between;margin-top: 275px;margin-top: 50px;}
+.footer-container {width: 100%;height: 395px;background-color: #121212;display: flex;justify-content:space-evenly;align-items:center;}
+
+.zeta2 {color:#FFFFFF;text-transform: capitalize ;margin-bottom:20px;font-size:  24px;font-weight: bold;font-family: 'Poppins' ,sans-serif;}
+.left-blockp{ color: #B1B1B1;font-size: 14px;width: 260px;font-family: 'Poppins' ,sans-serif;}
+.icon-boxs {margin-top: 20px;display: flex;width: 35px;height: 35px;}
+.footer-Useful {font-size: 18px;color: #FFFFFF;font-family: 'Poppins' ,sans-serif;margin-bottom:20px;font-weight: bold;}
+.footer-blog{font-size: 14px;color:#5863F8 ;font-family: 'Poppins' ,sans-serif;margin-bottom: 10px;}
+.footer-rooms{font-size: 14px;color:#5863F8 ;font-family: 'Poppins' ,sans-serif;margin-bottom: 10px;}
+.footer-gift-card{font-size: 14px;color:#5863F8 ;font-family: 'Poppins' ,sans-serif;margin-bottom: 10px;}
+.footer-Testimonials{font-size: 14px;color:#5863F8 ;font-family: 'Poppins' ,sans-serif;margin-bottom: 10px;}
+.footer-Privacy{font-size: 18px;color: #FFFFFF;font-family: 'Poppins' ,sans-serif;margin-bottom:20px;font-weight: bold;}
+.footer-Career{font-size: 14px;color:#5863F8 ;font-family: 'Poppins' ,sans-serif;margin-bottom: 10px;}
+.footer-About-Us{font-size: 14px;color:#5863F8 ;font-family: 'Poppins' ,sans-serif;margin-bottom: 10px;}
+.footer-Contact-Us{font-size: 14px;color:#5863F8 ;font-family: 'Poppins' ,sans-serif;margin-bottom: 20px;}
+.footer-Services{font-size: 14px;color:#5863F8 ;font-family: 'Poppins' ,sans-serif;margin-bottom: 10px;}
+.footer-Contact-Info{font-size: 18px;color: #FFFFFF;font-family: 'Poppins' ,sans-serif;margin-bottom:20px;font-weight: bold;}
+.fa-envelope ,
+.fa-phone-alt,   
+.fa-map-marker-alt{color:#5863F8;}
+.mailtohtml {color:#FFFFFF;font-size: 14px;font-family: 'Poppins' ,sans-serif;margin-bottom: 20px;margin-left: 14px;}
+.fa-phone-alt {margin-top: 24.7px;color: #5863F8;}
+.phone1 {color: white;font-family: 'Poppins',sans-serif; margin-left: 17px;}
+.location1 {color: #5863F8;font-size: 20px;margin-top: 20px;}
+.location2{color:#FFFFFF;font-family: 'Poppins' ,sans-serif;margin-left: 19.9px;}
+.copyright {background-color:#121212;color: #707070;font-family: 'Poppins',sans-serif; margin-left: 139px;}
+.marian {color:#5863F8 ;}
